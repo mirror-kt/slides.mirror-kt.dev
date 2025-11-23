@@ -1,0 +1,14 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["local>mirror-kt/renovate-config", "customManagers:biomeVersions"],
+  "packageRules": [
+    {
+        "description": "slidev related packages",
+        "groupName": "slidev",
+        "matchManagers": ["npm"],
+        "matchPackageNames": [
+            "@slidev/*"
+        ]
+    }
+  ]
+}
