@@ -5,6 +5,7 @@
     "assets": {
         "directory": "./dist"
     },
+    "preview_urls": true,
     "route": {
         "pattern": "slides.mirror-kt.dev/*",
         "zone_name": "mirror-kt.dev"
