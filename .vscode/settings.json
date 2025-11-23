@@ -1,0 +1,14 @@
+{
+    "slidev.dev-command": "yarn run g:slidev -- ${args}",
+    "slidev.preview-sync": true,
+    "slidev.port": 3030,
+    "unocss.languageIds": ["css"],
+    "markdown-code-features.enable": true,
+    "[markdown]": {
+        "editor.quickSuggestions": {
+            "comments": true,
+            "strings": true,
+            "other": true
+        }
+    }
+}

@@ -1,0 +1,117 @@
+/** ------ 游ゴシック ------ **/
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 100;
+    src: local("YuGothic-Light"), local("Yu Gothic Light");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 200;
+    src: local("YuGothic-Light"), local("Yu Gothic Light");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 300;
+    src: local("YuGothic-Regular"), local("Yu Gothic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 400;
+    src:
+        local("YuGothic-Medium"),
+        local("Yu Gothic Medium") local("YuGothic-Regular");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 500;
+    src:
+        local("YuGothic-Medium"),
+        local("Yu Gothic Medium") local("YuGothic-Regular");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 600;
+    src: local("YuGothic-Bold"), local("Yu Gothic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 700;
+    src: local("YuGothic-Bold"), local("Yu Gothic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 800;
+    src: local("YuGothic-Bold"), local("Yu Gothic");
+}
+
+@font-face {
+    font-family: "MyYuGothicM";
+    font-weight: 900;
+    src: local("YuGothic-Bold"), local("Yu Gothic");
+}
+
+/** ------ 游明朝 ------ **/
+@font-face {
+    font-family: "MyYuMinchoM";
+    font-weight: 100;
+    src: local("YuMincho-Light"), local("Yu Mincho Light");
+}
+
+@font-face {
+    font-family: "MyYuMinchoM";
+    font-weight: 200;
+    src: local("YuMincho-Light"), local("Yu Mincho Light");
+}
+
+@font-face {
+    font-family: "MyYuMinchoM";
+    font-weight: 300;
+    src: local("YuMincho-Regular"), local("Yu Mincho");
+}
+
+@font-face {
+    font-family: "MyYuMinchoM";
+    font-weight: 400;
+    src:
+        local("YuMincho-Medium"),
+        local("Yu Mincho Medium") local("YuMincho-Regular");
+}
+
+@font-face {
+    font-family: "MyYuMinchoM";
+    font-weight: 500;
+    src:
+        local("YuMincho-Medium"),
+        local("Yu Mincho Medium") local("YuMincho-Regular");
+}
+
+@font-face {
+    font-family: "MyYuMinchoM";
+    font-weight: 600;
+    src: local("YuMincho-Bold"), local("Yu Mincho");
+}
+
+@font-face {
+    font-family: "MyYuMinchoM";
+    font-weight: 700;
+    src: local("YuMincho-Bold"), local("Yu Mincho");
+}
+
+@font-face {
+    font-family: "MyYuMinchoM";
+    font-weight: 800;
+    src: local("YuMincho-Bold"), local("Yu Mincho");
+}
+
+@font-face {
+    font-family: "MyYuMinchoM";
+    font-weight: 900;
+    src: local("YuMincho-Bold"), local("Yu Mincho");
+}

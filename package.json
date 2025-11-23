@@ -1,0 +1,33 @@
+{
+    "name": "slides.mirror-kt.dev",
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "g:slidev": "cd $INIT_CWD && slidev",
+        "g:build": "cd $INIT_CWD && slidev build --base \"/$(basename \"$INIT_CWD\")\" --out \"$PROJECT_CWD/dist/$(basename \"$INIT_CWD\")\"",
+        "deploy": "wrangler deploy",
+        "format": "biome format --write .",
+        "lint": "biome lint --write ."
+    },
+    "dependencies": {
+        "@slidev/cli": "^52.9.1",
+        "@slidev/theme-default": "latest",
+        "@slidev/theme-seriph": "latest",
+        "vue": "^3.5.24"
+    },
+    "devDependencies": {
+        "@biomejs/biome": "2.3.7",
+        "@iconify-json/devicon": "^1.2.50",
+        "@iconify-json/logos": "^1.2.10",
+        "@iconify-json/lucide": "^1.2.74",
+        "@iconify-json/mdi": "^1.2.3",
+        "execa": "^9.6.0",
+        "seedrandom": "^3.0.5",
+        "tsx": "^4.20.6",
+        "wrangler": "^4.28.1"
+    },
+    "packageManager": "yarn@4.11.0",
+    "workspaces": [
+        "slides/*"
+    ]
+}

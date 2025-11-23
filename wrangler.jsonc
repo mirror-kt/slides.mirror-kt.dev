@@ -1,0 +1,12 @@
+{
+    "$schema": "node_modules/wrangler/config-schema.json",
+    "name": "slides",
+    "compatibility_date": "2025-08-06",
+    "assets": {
+        "directory": "./dist"
+    },
+    "route": {
+        "pattern": "slides.mirror-kt.dev/*",
+        "zone_name": "mirror-kt.dev"
+    }
+}
