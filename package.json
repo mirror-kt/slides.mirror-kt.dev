@@ -6,6 +6,7 @@
         "g:slidev": "cd $INIT_CWD && slidev",
         "g:build": "cd $INIT_CWD && slidev build --base \"/$(basename \"$INIT_CWD\")\" --out \"$PROJECT_CWD/dist/$(basename \"$INIT_CWD\")\"",
         "deploy": "wrangler deploy",
+        "deploy:preview": "wrangler versions upload",
         "format": "biome format --write .",
         "lint": "biome lint --write ."
     },
