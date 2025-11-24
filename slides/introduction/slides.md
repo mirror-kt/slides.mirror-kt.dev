@@ -21,26 +21,16 @@ duration: 35min
 routerMode: hash
 fonts:
   # basically the text
-  sans:
-    - -apple-system # macOS(Safari): San Francisco (欧文)
-    - "BlinkMacSystemFont" # macOS(Chrome): San Francisco (欧文)
-    - "Hiragino Kaku Gothic ProN" # macOS/iOS: ヒラギノ角ゴシック
-    - "Hiragino Sans" # macOS/iOS: ヒラギノ角ゴシック
-    - "MyYuGothicM" # Windows: 游ゴシック
-    - sans-serif
+  sans: -apple-system,BlinkMacSystemFont,Segoe UI,Hiragino Kaku Gothic ProN,Hiragino Sans,MyYuGothicM
   # use with `font-serif` css class from UnoCSS
-  serif:
-    - "Times New Roman"
-    - "Hiragino Mincho ProN" # macOS/iOS: ヒラギノ明朝
-    - "Hiragino Serif" # macOS/iOS: ヒラギノ明朝
-    - "MyYuMinchoM" # Windows: 游明朝
-    - serif
+  serif: Times New Roman,Hiragino Mincho ProN,Hiragino Serif,MyYuMinchoM
   # for code blocks, inline code, etc.
   mono: "MonoLisa"
   local:
     - -apple-system
     - BlinkMacSystemFont
     - "Times New Roman"
+    - “Segoe UI”
     - "Hiragino Kaku Gothic ProN"
     - "Hiragino Sans"
     - "Hiragino Mincho ProN"
