@@ -989,11 +989,11 @@ __metadata:
   linkType: hard
 
 "@iconify-json/lucide@npm:^1.2.74":
-  version: 1.2.74
-  resolution: "@iconify-json/lucide@npm:1.2.74"
+  version: 1.2.75
+  resolution: "@iconify-json/lucide@npm:1.2.75"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/71f85ea2717082953a3557d637c82deb2d829517535a6cf779ad34de1ac89710ed690f64420c236614dbb217086f2d49a77e67c97445a984b3da1c223278227f
+  checksum: 10c0/aa941dc158045940b774ea08722339992089eea146eb24940f80f68cc63982898639d2fc480fe8e19daece4be5fd3bd2e64d4e4c017041a186d795db2a2dc2f5
   languageName: node
   linkType: hard
 
