@@ -1,14 +1,21 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["local>mirror-kt/renovate-config", "customManagers:biomeVersions"],
-  "packageRules": [
-    {
-        "description": "slidev related packages",
-        "groupName": "slidev",
-        "matchManagers": ["npm"],
-        "matchPackageNames": [
-            "@slidev/*"
-        ]
-    }
-  ]
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "local>mirror-kt/renovate-config",
+        "customManagers:biomeVersions"
+    ],
+    "packageRules": [
+        {
+            "description": "slidev related packages",
+            "groupName": "slidev",
+            "matchManagers": ["npm"],
+            "matchPackageNames": ["@slidev/*"]
+        },
+        {
+            "description": "iconify related packages",
+            "groupName": "iconify",
+            "matchManagers": ["npm"],
+            "matchPackageNames": ["@iconify-json/*", "@iconify/*"]
+        }
+    ]
 }
