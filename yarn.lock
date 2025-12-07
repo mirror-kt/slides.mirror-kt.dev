@@ -1178,11 +1178,11 @@ __metadata:
   linkType: hard
 
 "@iconify-json/lucide@npm:^1.2.74":
-  version: 1.2.78
-  resolution: "@iconify-json/lucide@npm:1.2.78"
+  version: 1.2.79
+  resolution: "@iconify-json/lucide@npm:1.2.79"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/dfc4bfa81242e621cab6cbb1ef8ca05a650c2306231a949d59fb1974066127241452827d0d5837e56e580a2695b9be4598453d36e4e983dbfc9fec8e94519470
+  checksum: 10c0/ad7e1a1755830e442ce85348775a8903b17fe23e577282a835060dfe3b9bc0d86a4a9a55aebc7de7687289dacc02ee07c137abcb29d6d85dffc2f5c683e06419
   languageName: node
   linkType: hard
 
@@ -2933,19 +2933,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@volar/language-core@npm:2.4.23":
-  version: 2.4.23
-  resolution: "@volar/language-core@npm:2.4.23"
+"@volar/language-core@npm:2.4.26":
+  version: 2.4.26
+  resolution: "@volar/language-core@npm:2.4.26"
   dependencies:
-    "@volar/source-map": "npm:2.4.23"
-  checksum: 10c0/1b8d60c7c0faa29ef5ec46dd2b673227592d0697753767e4df088f7c2d93843828116fe59472bb9d604ba653400be32a538e985730844b1af4f42a7075e62049
+    "@volar/source-map": "npm:2.4.26"
+  checksum: 10c0/f53b24a51234217db33bd694620abd472842c801002afb420558e2c5e63a3c5cc3eb3463513550c49491b07771fe4d12c23d87792157b7a377e7e554242b0d49
   languageName: node
   linkType: hard
 
-"@volar/source-map@npm:2.4.23":
-  version: 2.4.23
-  resolution: "@volar/source-map@npm:2.4.23"
-  checksum: 10c0/08af690093b811d0a37bdd8d306755b4e7f1535b67625c26f6fa6eb9ae081e24c55dabc8231ce8856aa1b731a5ac137b3f0449b34c093923c3545afdbe462c7a
+"@volar/source-map@npm:2.4.26":
+  version: 2.4.26
+  resolution: "@volar/source-map@npm:2.4.26"
+  checksum: 10c0/a8b8003b8aadea452f95135f175ef5085ff765ff5d595c57f6ec20341762d9ea03192f2b421357ce66072f2d51ff38b68d172ad13b8792bd33933e4ed16312c4
   languageName: node
   linkType: hard
 
@@ -3051,10 +3051,10 @@ __metadata:
   linkType: hard
 
 "@vue/language-core@npm:^3.0.5":
-  version: 3.1.5
-  resolution: "@vue/language-core@npm:3.1.5"
+  version: 3.1.6
+  resolution: "@vue/language-core@npm:3.1.6"
   dependencies:
-    "@volar/language-core": "npm:2.4.23"
+    "@volar/language-core": "npm:2.4.26"
     "@vue/compiler-dom": "npm:^3.5.0"
     "@vue/shared": "npm:^3.5.0"
     alien-signals: "npm:^3.0.0"
@@ -3066,7 +3066,7 @@ __metadata:
   peerDependenciesMeta:
     typescript:
       optional: true
-  checksum: 10c0/10e960d85c06edff0d5217cc4e54dd59ad2308ce0d6202720cd4d56fc2237f01f1f51cf04bdb0ea80796b40beecffa8f9428eaaceaa5642d4a8a0ae60bd5bc15
+  checksum: 10c0/db73dd9b822dd9920973ddc4a1e41e5e24c884fbe50ecb6d7c1d8dbd359f320fa8f0dd057be38cce7e1879fb161cd90ec27082781f8ada8f79c068f55b773d80
   languageName: node
   linkType: hard
 
@@ -3310,11 +3310,11 @@ __metadata:
   linkType: hard
 
 "baseline-browser-mapping@npm:^2.9.0":
-  version: 2.9.2
-  resolution: "baseline-browser-mapping@npm:2.9.2"
+  version: 2.9.4
+  resolution: "baseline-browser-mapping@npm:2.9.4"
   bin:
     baseline-browser-mapping: dist/cli.js
-  checksum: 10c0/4f9be09e20261ed26f19e9b95454dcb8d8371b87983c57cd9f70b9572e9b3053577f0d8d6d91297bdb605337747680686e22f62522a6e57ae2488fcacf641188
+  checksum: 10c0/5f33f2505130a234d70b332e3dbedf79655fa2be8287c4f4ea2dd0caca9e1c0c2598d8f5c3798e632382404a414de2b47710ec06b6741deb5e1236eb0b62803b
   languageName: node
   linkType: hard
 
@@ -4360,9 +4360,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.263":
-  version: 1.5.265
-  resolution: "electron-to-chromium@npm:1.5.265"
-  checksum: 10c0/f0409d15b02b61df5004d2bf6db0a2a01f42273fb46944c243d13139c83e8a07ad556656fd5f09758ae9b612ebf9862535afc6bffd47395890d5df7551274a4b
+  version: 1.5.266
+  resolution: "electron-to-chromium@npm:1.5.266"
+  checksum: 10c0/74ada92ada1ace76ec5b7da8a9cc2d7f03db122a64ac8e12ae30eba3e358ffec443c0c5265bc6edcdeebfa73f449b21c361080c064eb1eec437db2d71fc03248
   languageName: node
   linkType: hard
 
@@ -5519,13 +5519,13 @@ __metadata:
   linkType: hard
 
 "katex@npm:^0.16.22, katex@npm:^0.16.25":
-  version: 0.16.25
-  resolution: "katex@npm:0.16.25"
+  version: 0.16.26
+  resolution: "katex@npm:0.16.26"
   dependencies:
     commander: "npm:^8.3.0"
   bin:
     katex: cli.js
-  checksum: 10c0/5bb4b1cd914b76d5efb01ee054c1a221ac723be1e38fb260264c6e253036943d301c1741cbf64f840689c6b3942bce21a6da6637de846a428e4c661dc8ee46ab
+  checksum: 10c0/041b7c0dd9c579cc12603c7fe5aefc34463fb7c2e68bdfb397bd2ebc3b24e109757a238394b36b74d659d37f299647dbb4ad92e7e1059256e55b7b110f82bce9
   languageName: node
   linkType: hard
 
