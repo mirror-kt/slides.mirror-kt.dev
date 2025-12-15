@@ -1160,11 +1160,11 @@ __metadata:
   linkType: hard
 
 "@iconify-json/devicon@npm:^1.2.50":
-  version: 1.2.51
-  resolution: "@iconify-json/devicon@npm:1.2.51"
+  version: 1.2.53
+  resolution: "@iconify-json/devicon@npm:1.2.53"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/0f909b325c06baf258997ebedd740d288e5706ad29d6bb87b05346f53cd939142450f149bd825cbc04b48eb1760a8a2b19b15e307e1eeac954b813a2c3f84f57
+  checksum: 10c0/6fb95c7bfabdc675556f431b78e7779f82cffcb0d908c82bdb05aa5b421fa44ef08f65decdba2a61fc05f539bff48df60c7c61103253df53805dc548177cd4ea
   languageName: node
   linkType: hard
 
