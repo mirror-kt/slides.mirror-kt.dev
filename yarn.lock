@@ -978,11 +978,11 @@ __metadata:
   linkType: hard
 
 "@iconify-json/devicon@npm:^1.2.50":
-  version: 1.2.53
-  resolution: "@iconify-json/devicon@npm:1.2.53"
+  version: 1.2.55
+  resolution: "@iconify-json/devicon@npm:1.2.55"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/6fb95c7bfabdc675556f431b78e7779f82cffcb0d908c82bdb05aa5b421fa44ef08f65decdba2a61fc05f539bff48df60c7c61103253df53805dc548177cd4ea
+  checksum: 10c0/98f72541d45fc39ea2f76f0836ea7c3fd411c4ffdfd1d52b97d1659caab8a8224ed2bf93aa352ec4cb9f4db3ff01546414d0d6c3d1f39ff3c6c059c00754f1dc
   languageName: node
   linkType: hard
 
@@ -996,11 +996,11 @@ __metadata:
   linkType: hard
 
 "@iconify-json/lucide@npm:^1.2.74":
-  version: 1.2.81
-  resolution: "@iconify-json/lucide@npm:1.2.81"
+  version: 1.2.82
+  resolution: "@iconify-json/lucide@npm:1.2.82"
   dependencies:
     "@iconify/types": "npm:*"
-  checksum: 10c0/8fc433b9c04103f8e9be82f45363e2c1cfaac0881f686329f0f6ee61c163cd3c9f4dfdc0b557e08bce2c722949c5dbf5a281e5d790a84aa9759dac9e3b09927f
+  checksum: 10c0/81a38d3faca74c3c92be7257021934c69ba151eb91ea65ef4b507c923c2c3a4347ae605f5f119e8d0810692c856600422c50c3f1d28a853d8dc7a22fb567764b
   languageName: node
   linkType: hard
 
