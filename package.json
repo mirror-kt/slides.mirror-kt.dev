@@ -3,8 +3,8 @@
     "type": "module",
     "private": true,
     "scripts": {
-        "g:slidev": "cd $INIT_CWD && slidev",
-        "g:build": "cd $INIT_CWD && slidev build --base \"/$(basename \"$INIT_CWD\")\" --out \"$PROJECT_CWD/dist/$(basename \"$INIT_CWD\")\"",
+        "build:slides": "pnpm --filter './slides/*' -r build",
+        "slidev": "slidev",
         "deploy": "wrangler deploy",
         "deploy:preview": "wrangler versions upload",
         "format": "biome format --write .",
@@ -26,9 +26,5 @@
         "seedrandom": "^3.0.5",
         "tsx": "^4.20.6",
         "wrangler": "^4.28.1"
-    },
-    "packageManager": "yarn@4.12.0",
-    "workspaces": [
-        "slides/*"
-    ]
+    }
 }

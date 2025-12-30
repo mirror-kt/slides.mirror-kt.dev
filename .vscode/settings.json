@@ -1,5 +1,5 @@
 {
-    "slidev.dev-command": "yarn run g:slidev -- ${args}",
+    "slidev.dev-command": "pnpm exec slidev -- ${args}",
     "slidev.preview-sync": true,
     "slidev.port": 3030,
     "unocss.languageIds": ["css"],
