@@ -1,0 +1,4 @@
+packages:
+  - "slides/*"
+
+minimumReleaseAge: 10080 # 7 days
