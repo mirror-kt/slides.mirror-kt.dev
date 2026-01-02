@@ -50,7 +50,11 @@ The last comment block of each slide will be treated as slide notes. It will be 
 transition: fade-out
 ---
 
+<!-- textlint-disable ja-technical-writing/no-exclamation-question-mark -->
+
 # What is Slidev?
+
+<!-- textlint-enable -->
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
 
@@ -140,7 +144,11 @@ image: https://cover.sli.dev
 
 # Code
 
+<!-- textlint-disable ja-technical-writing/no-exclamation-question-mark -->
+
 Use code snippets and get the highlighting directly, and even types hover!
+
+<!-- textlint-enable -->
 
 ```ts [filename-example.ts] {all|4|6|6-7|9|all} twoslash
 // TwoSlash enables TypeScript hover information
@@ -460,6 +468,8 @@ $\LaTeX$ is supported out-of-box. Powered by [$\KaTeX$](https://katex.org/).
 
 Inline $\sqrt{3x-1}+(1+x)^2$
 
+<!-- textlint-disable ja-technical-writing/sentence-length -->
+
 Block
 $$ {1|3|all}
 \begin{aligned}
@@ -469,6 +479,8 @@ $$ {1|3|all}
 \nabla \times \vec{B} &= \mu_0\vec{J} + \mu_0\varepsilon_0\frac{\partial\vec{E}}{\partial t}
 \end{aligned}
 $$
+
+<!-- textlint-enable -->
 
 [Learn more](https://sli.dev/features/latex)
 

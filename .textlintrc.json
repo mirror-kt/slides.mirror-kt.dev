@@ -1,0 +1,46 @@
+{
+  "plugins": {
+    "@textlint/markdown": true
+  },
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "preset-japanese": {
+      "sentence-length": false
+    },
+    "ja-unnatural-alphabet": true,
+    "@textlint-ja/no-filler": true,
+    "@textlint-ja/no-synonyms": true,
+    "@textlint-rule/no-unmatched-pair": true,
+    "@textlint-rule/no-duplicate-abbr": true,
+    "@proofdict/proofdict": {
+      "dictURL": "https://proofdict.mirror-kt.dev/"
+    },
+    "preset-ja-spacing": {
+      "ja-space-between-half-and-full-width": {
+        "space": "always",
+        "exceptPunctuation": true
+      },
+      "ja-space-around-code": {
+        "before": true,
+        "after": true
+      }
+    },
+    "preset-ja-technical-writing": {
+      "no-exclamation-question-mark": {
+        "allowFullWidthExclamation": true,
+        "allowFullWidthQuestion": true
+      },
+      "max-kanji-continuous-len": false,
+      "no-doubled-joshi": {
+        "strict": false,
+        "allow": ["か"]
+      },
+      "sentence-length": {
+        "max": 120
+      },
+      "ja-no-mixed-period": false
+    }
+  }
+}

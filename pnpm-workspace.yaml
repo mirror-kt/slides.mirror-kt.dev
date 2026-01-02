@@ -1,4 +1,9 @@
 packages:
-  - "slides/*"
+  - slides/*
 
-minimumReleaseAge: 10080 # 7 days
+minimumReleaseAge: 10080
+
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+  - workerd
