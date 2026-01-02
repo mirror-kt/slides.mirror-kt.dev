@@ -1,8 +1,8 @@
 {
-    "name": "example",
-    "type": "module",
-    "private": true,
-    "scripts": {
-        "build": "slidev build --base \"$(pnpm -c exec echo '$PNPM_PACKAGE_NAME')\" --out \"../../dist/$(pnpm -c exec echo '$PNPM_PACKAGE_NAME')\""
-    }
+  "name": "example",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build --base \"$(pnpm -c exec echo '$PNPM_PACKAGE_NAME')\" --out \"../../dist/$(pnpm -c exec echo '$PNPM_PACKAGE_NAME')\""
+  }
 }
