@@ -44,7 +44,7 @@
   "packageManager": "pnpm@10.30.3",
   "pnpm": {
     "executionEnv": {
-      "nodeVersion": "25.7.0"
+      "nodeVersion": "25.8.0"
     }
   }
 }
