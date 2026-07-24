@@ -22,7 +22,7 @@
     "@iconify-json/logos": "^1.2.10",
     "@iconify-json/lucide": "^1.2.74",
     "@iconify-json/mdi": "^1.2.3",
-    "execa": "^9.6.0",
+    "execa": "^10.0.0",
     "seedrandom": "^3.0.5",
     "tsx": "^4.20.6",
     "wrangler": "^4.28.1",
