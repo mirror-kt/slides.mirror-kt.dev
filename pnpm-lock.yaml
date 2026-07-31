@@ -32,7 +32,7 @@ importers:
         version: 1.2.11
       '@iconify-json/lucide':
         specifier: ^1.2.74
-        version: 1.2.118
+        version: 1.2.119
       '@iconify-json/mdi':
         specifier: ^1.2.3
         version: 1.2.3
@@ -997,8 +997,8 @@ packages:
   '@iconify-json/logos@1.2.11':
     resolution: {integrity: sha512-fOo4pGEatuyuCFNL+cwquYMa2Im0oJHRHV7lt/Qqs5Ode/lPImHCQcfTtPzZj7qYMPb/h8YHN3TG54uEowrjNQ==}
 
-  '@iconify-json/lucide@1.2.118':
-    resolution: {integrity: sha512-JBnK4YOq6K/lA0JP//27QxFxJ4120TjvfXAzGZZIGjCcXcRRRFxl1rcV7+IWdcVCe90KXdqVaAwLaLf6G3HELw==}
+  '@iconify-json/lucide@1.2.119':
+    resolution: {integrity: sha512-KbrC7fT5wPshV1KLRM0k91poP0OH4eKEVywEOH0FCczKb+qth8Pcq1Hy9kS2tXeF52s23qzLnG8AJsExPSupeA==}
 
   '@iconify-json/mdi@1.2.3':
     resolution: {integrity: sha512-O3cLwbDOK7NNDf2ihaQOH5F9JglnulNDFV7WprU2dSoZu3h3cWH//h74uQAB87brHmvFVxIOkuBX2sZSzYhScg==}
@@ -3449,8 +3449,8 @@ packages:
   electron-to-chromium@1.5.389:
     resolution: {integrity: sha512-cEto7aeOqBfU1D+c5py5pE+ooscKE75JifxLBdFUZsqAxRS6y7kebtxAZvICszSl05gPjYHDTjY+lXpyGvpJbg==}
 
-  electron-to-chromium@1.5.395:
-    resolution: {integrity: sha512-7zt9Aw+SrmxLWLN0zhaTWZQiCdryLVrYTq5R7iZakLvi2UQPYMMsROYV/2qVCzMeCiSXHwKOU+sZ4zOVVlrtKA==}
+  electron-to-chromium@1.5.396:
+    resolution: {integrity: sha512-yHiw2Y3C3H9U6TMbOfoWK/BPreiOPXRfTWPBwQBoZG6/8TB6eOPnsy5oaRYuatR7Fw2SJ4kKforgufeo7fq0EQ==}
 
   emoji-regex@10.6.0:
     resolution: {integrity: sha512-toUI84YS5YmxW219erniWD0CIVOo46xGKColeNQRgOzDorgBi1v4D71/OFzgD9GO2UGKIv1C3Sp8DAn0+j5w7A==}
@@ -7590,7 +7590,7 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/lucide@1.2.118':
+  '@iconify-json/lucide@1.2.119':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -9790,7 +9790,7 @@ snapshots:
     dependencies:
       baseline-browser-mapping: 2.11.1
       caniuse-lite: 1.0.30001806
-      electron-to-chromium: 1.5.395
+      electron-to-chromium: 1.5.396
       node-releases: 2.0.51
       update-browserslist-db: 1.2.3(browserslist@4.28.7)
     optional: true
@@ -10404,7 +10404,7 @@ snapshots:
 
   electron-to-chromium@1.5.389: {}
 
-  electron-to-chromium@1.5.395:
+  electron-to-chromium@1.5.396:
     optional: true
 
   emoji-regex@10.6.0: {}
