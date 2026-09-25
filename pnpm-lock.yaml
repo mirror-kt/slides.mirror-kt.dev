@@ -26,13 +26,13 @@ importers:
         version: 2.5.14
       '@iconify-json/devicon':
         specifier: ^1.2.50
-        version: 1.2.63
+        version: 1.2.65
       '@iconify-json/logos':
         specifier: ^1.2.10
         version: 1.2.14
       '@iconify-json/lucide':
         specifier: ^1.2.74
-        version: 1.2.132
+        version: 1.2.134
       '@iconify-json/mdi':
         specifier: ^1.2.3
         version: 1.2.3
@@ -1120,14 +1120,14 @@ packages:
   '@iconify-json/carbon@1.2.27':
     resolution: {integrity: sha512-tufpkYXBDlXqczQEZo6QgvfwBd5aIK36gt+pHOI66eK4KOO8oh7CIHDZ4JsiSnOyjqRbApVHzXv4Nz8NO0GPFQ==}
 
-  '@iconify-json/devicon@1.2.63':
-    resolution: {integrity: sha512-12jYQP3LxorpUkNNbpKUDWiwS2ODW3xpVheXXNgJTpJurgyAN/WiAONCzpF5YLTCqqiqfYj4xIEW0EVGDADrvQ==}
+  '@iconify-json/devicon@1.2.65':
+    resolution: {integrity: sha512-qypMkudbbFv+7od8ZTQHZ17rbZgaah355g4rk2+cGIlZjKWpGK8ysbs6anWBi8ljj3DWAEhb8ud3BSzLtlJvrw==}
 
   '@iconify-json/logos@1.2.14':
     resolution: {integrity: sha512-O36DicXkgAMT6NAsH7MTWlOql8NktHz9fBCItTjz6L/9gyRXw4vQj6qTeVgww5UZWiVugUV1MhVFA/g9HWIkBw==}
 
-  '@iconify-json/lucide@1.2.132':
-    resolution: {integrity: sha512-YgblweuQSz0AVG+zPvfECiYrJeTEFSKEthFSfwVB3OMJrL3dJ6QS0gX2akImqg3IEMRK1wVooAEAPbd7Kzj4FA==}
+  '@iconify-json/lucide@1.2.134':
+    resolution: {integrity: sha512-MXzwT7H8Ii/aGN6NLtMbMLDaxLYsOxCKEdW0F5h3MemNUaUBqAxr9nz0mPlXzozd/piQyrdSiUyk0t5b5ErADg==}
 
   '@iconify-json/mdi@1.2.3':
     resolution: {integrity: sha512-O3cLwbDOK7NNDf2ihaQOH5F9JglnulNDFV7WprU2dSoZu3h3cWH//h74uQAB87brHmvFVxIOkuBX2sZSzYhScg==}
@@ -5024,8 +5024,8 @@ packages:
   regjsgen@0.8.0:
     resolution: {integrity: sha512-RvwtGe3d7LvWiDQXeQw8p5asZUmfU1G/l6WbUXeHta7Y2PEIvBTwH6E2EfmYUK8pxcxEdEmaomqyp0vZZ7C+3Q==}
 
-  regjsparser@0.13.2:
-    resolution: {integrity: sha512-NgRBy2Nx/bE+9F27nVHnqcN5HjyLmecqsqx2PJHu3/IEtADD4WuxuXIVExD5PoSDFVrl78dOonfcOe5O+5nbzQ==}
+  regjsparser@0.13.3:
+    resolution: {integrity: sha512-ycwFAS14Jw4mppvmK4GR/J6u3WpWpjkEApehuHtLc/8VpPNpDMbQ4WjqwplXifGeyKOzHSFLmSPqzksDQE2Sfg==}
     hasBin: true
 
   regx@1.0.4:
@@ -7317,7 +7317,7 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/devicon@1.2.63':
+  '@iconify-json/devicon@1.2.65':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -7325,7 +7325,7 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/lucide@1.2.132':
+  '@iconify-json/lucide@1.2.134':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -12093,7 +12093,7 @@ snapshots:
       regenerate: 1.4.2
       regenerate-unicode-properties: 10.2.2
       regjsgen: 0.8.0
-      regjsparser: 0.13.2
+      regjsparser: 0.13.3
       unicode-match-property-ecmascript: 2.0.0
       unicode-match-property-value-ecmascript: 2.2.1
     optional: true
@@ -12101,7 +12101,7 @@ snapshots:
   regjsgen@0.8.0:
     optional: true
 
-  regjsparser@0.13.2:
+  regjsparser@0.13.3:
     dependencies:
       jsesc: 3.1.0
     optional: true
