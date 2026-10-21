@@ -26,13 +26,13 @@ importers:
         version: 2.5.15
       '@iconify-json/devicon':
         specifier: ^1.2.50
-        version: 1.2.70
+        version: 1.2.71
       '@iconify-json/logos':
         specifier: ^1.2.10
-        version: 1.2.15
+        version: 1.2.16
       '@iconify-json/lucide':
         specifier: ^1.2.74
-        version: 1.2.142
+        version: 1.2.143
       '@iconify-json/mdi':
         specifier: ^1.2.3
         version: 1.2.3
@@ -968,14 +968,14 @@ packages:
   '@iconify-json/carbon@1.2.27':
     resolution: {integrity: sha512-tufpkYXBDlXqczQEZo6QgvfwBd5aIK36gt+pHOI66eK4KOO8oh7CIHDZ4JsiSnOyjqRbApVHzXv4Nz8NO0GPFQ==}
 
-  '@iconify-json/devicon@1.2.70':
-    resolution: {integrity: sha512-/65PI7UrzMyIN39kz5kRW8SnE5xWaS+yAIRQr/VWtqOPZlARtCH4VXW5ci4qQTOCBVSG6u3z+u812VzL+pP8ZA==}
+  '@iconify-json/devicon@1.2.71':
+    resolution: {integrity: sha512-1o+Zl3QveZZoE6VMUl9hL4FEtyHC1NeUHO8sqBm2vb7oG1hL/43uzjKPXolG2tkQRkcEoi6TjH2qMss+xPCdAw==}
 
-  '@iconify-json/logos@1.2.15':
-    resolution: {integrity: sha512-87zwqEFatvpcK7lIIp0RnCbDAPWcG8bTK5hZI5SuD71za+opSuqtGvFUiSNt6wiyuY+nolrW/JW1K4/mBczWhQ==}
+  '@iconify-json/logos@1.2.16':
+    resolution: {integrity: sha512-J7uewTzmJchaWkc8f/SW3aS14Y6H1bnLihMZaVccDao3TRsWFJvGfAhbkTzErKjSSbRJG8uzjY4yzMbGMELPIw==}
 
-  '@iconify-json/lucide@1.2.142':
-    resolution: {integrity: sha512-vEGX5X52/l77jRMcmxXk3PiEebldDUs8WFdM8X3Evq1S9p5F+o0VZhx8sqaQsmFEB9Ukp5ND5Q/0g2kQ/LF+rQ==}
+  '@iconify-json/lucide@1.2.143':
+    resolution: {integrity: sha512-YSggiBVmSY5IvLoKS5pUBoNYkon5g5bac0/JvYCIaFbhTfsTfkIHG2nCXWSk03tu5C4IEmyZ4qwfwbO9CXqLag==}
 
   '@iconify-json/mdi@1.2.3':
     resolution: {integrity: sha512-O3cLwbDOK7NNDf2ihaQOH5F9JglnulNDFV7WprU2dSoZu3h3cWH//h74uQAB87brHmvFVxIOkuBX2sZSzYhScg==}
@@ -3175,8 +3175,8 @@ packages:
   electron-to-chromium@1.5.431:
     resolution: {integrity: sha512-AAVihz2YwJeOdAynX8MUtqpvjY0gaiARp/7+r4kwqgzqXMrfG1qDN7vwT80uxAoOQRPcZH8t73EI+CA/1OJN8A==}
 
-  electron-to-chromium@1.5.454:
-    resolution: {integrity: sha512-NqD5GhkXnxJpDQVCmmpc546qjH6kei2VI9m45CTF+sQU7bcS7YeVt7ba0cnjueMH1AXGRu/driZUP9iYVSv7vg==}
+  electron-to-chromium@1.5.455:
+    resolution: {integrity: sha512-EDKY1GvJLJC0UQpk+zWxnXp315azNHIns3arXVNUQUOLaon6GtIzBBXWvNno7bVoDXRPnEAV2uwgMCb+RvG5hQ==}
 
   emoji-regex@10.6.0:
     resolution: {integrity: sha512-toUI84YS5YmxW219erniWD0CIVOo46xGKColeNQRgOzDorgBi1v4D71/OFzgD9GO2UGKIv1C3Sp8DAn0+j5w7A==}
@@ -7130,15 +7130,15 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/devicon@1.2.70':
+  '@iconify-json/devicon@1.2.71':
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/logos@1.2.15':
+  '@iconify-json/logos@1.2.16':
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/lucide@1.2.142':
+  '@iconify-json/lucide@1.2.143':
     dependencies:
       '@iconify/types': 2.0.0
 
@@ -9195,7 +9195,7 @@ snapshots:
     dependencies:
       baseline-browser-mapping: 2.11.28
       caniuse-lite: 1.0.30001816
-      electron-to-chromium: 1.5.454
+      electron-to-chromium: 1.5.455
       node-releases: 2.0.58
       update-browserslist-db: 1.3.4(browserslist@4.29.3)
     optional: true
@@ -9797,7 +9797,7 @@ snapshots:
 
   electron-to-chromium@1.5.431: {}
 
-  electron-to-chromium@1.5.454:
+  electron-to-chromium@1.5.455:
     optional: true
 
   emoji-regex@10.6.0: {}
